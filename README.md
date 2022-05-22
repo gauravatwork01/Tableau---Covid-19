@@ -1,12 +1,11 @@
 
-# SQL - Data Analytics Projects
-Compilation of MySQL queries for 
-Data Analytics and Business Intelligence.
+# TABLEAU - Data Analytics Project
+Compilation of Tableau worksheets and dashboards for 
+Data Analytics and Business Intelligence through visualizations.
 ## Objective
 
-Use MySQL for relevant data extraction, aggregations, and operations for Data Analytics and Business Intelligence answering various business 
-related questions.
+Use TABLEAU for data analytics using powerful visualizations.
 
 ## Directions
 
-Please open MySQL_queries.md file. 
+Please open Tableau_link.md file. 
